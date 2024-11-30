@@ -27,3 +27,6 @@ No. Pretendo Network has nothing to do with us.
 > Will the Japanese TVii UI be revived?
 
 Maybe. This is still in consideration and we don't know if its feasible to manage two Nintendo TVii revivals.
+
+# License
+Project Rosé is licensed under the GNU AGPL License version 3
