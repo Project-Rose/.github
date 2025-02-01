@@ -13,7 +13,7 @@ Only talk about things that actually should be mentioned.
 
 # Workflow
 ## Branches
-There will *typically* be a `main` branch, a `staging` branch, and `dev` branch. The `main` branch is what is currently being pushed in production (what is currently active). The `dev` branch is what will eventually get merged into the main branch - this is where all the development occurs. The `staging` branch is where everything from the `dev` branch is put when it is in its testing phase.
+There will *typically* be a `main` branch, a `staging` branch, and `dev` branch. The `main` branch is what is currently being pushed in production (what is currently active). The `dev` branch is  where all the development occurs - it will eventually get merged into the `staging` branch. The `staging` branch is where everything from the `dev` branch is put when it is in its testing phase. When everything is good, it will be merged into `main`.
 
 Generally, unless you are committing a simple fix, do not commit directly to these branches. Make a fork (or make a branch, preferably have it be `yourname/what-you-are-doing` so we know who is primarily working on what, and then open a pull request.
 
